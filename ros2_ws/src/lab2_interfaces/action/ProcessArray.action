@@ -1,0 +1,7 @@
+int32[] input_data
+---
+int32[] output_data
+int32 total_items
+---
+float32 progress_percent
+string current_status
